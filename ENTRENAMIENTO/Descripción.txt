@@ -1,0 +1,6 @@
+En esta carpeta se almacenan las diferentes versiones de entrenamientos que se han utilizado para alcanzar la mejor
+precisión para nuestro objetivo planteado. Se coloca la versión original que posee la mayoría de pruebas, asimismo,
+se separó en 2 Colabs distintos para mayor legibilidad. Se debe mencionar que el Colab FINAL utilizado para nuestro
+trabajo es el que utiliza el Valor Agregado Bruto (CON VAB). La idea de probar utilizando como no el VAB fue debido
+a que en la sección de correlación, el mapa de calor indicaba que existía una alta correlación entre algunos campos,
+no obstante se pudo observar que implementando el VAB se alcanzan valores significativamente mayores.

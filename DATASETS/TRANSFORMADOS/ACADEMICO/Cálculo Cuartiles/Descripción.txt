@@ -1,0 +1,4 @@
+Se realiza el cálculo de los cuartiles de cada uno de los Datasets, esto se realizo para todos debido a que en
+un inicio no se tenía certeza qué datos eran realmente útiles para nuestro objetivo (Finalmente solo se utilizó
+el cuartil del 2024). El cálculo de los cuartiles se realiza a partir de los promedios generales de cada uno de
+ellos, de tal forma que se agrega una nueva columna "Cuartil" y se clasifican los registros.

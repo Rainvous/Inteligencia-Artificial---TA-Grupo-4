@@ -1,0 +1,5 @@
+Finalmente, se consolida el preprocesamiento a partir de la limpieza y reformulación de la estructura del dataset
+fusionado. Se descartan los registros los cuales no tengan valores (registros NaN), asimismo, se aplica Hot-Encoding
+para la asignación de cada región existente. Respecto a los cuartiles se utiliza valores numéricos para su 
+asignación. Se debe mencionar que procesos como el escalamiento de datos se realiza en el mismo proceso de 
+entrenamiento a partir de los pipelines.

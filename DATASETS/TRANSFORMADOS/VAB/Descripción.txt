@@ -1,0 +1,5 @@
+Se juntan los diferentes datos de los VAB's especificados en el informe, clasificándolos por la Región y año en la
+que se obtuvo, asimismo solo se está recuperando información de los años 2016 y 2018. Asimismo, se está utilizando
+la primera medida indicada en cada uno de Datasets iniciales, valores constantes desde el año 2007 (esto para 
+evitar los efectos de la inflación a lo largo de los años y tener una misma relación entre los presupuestos 
+asignados)

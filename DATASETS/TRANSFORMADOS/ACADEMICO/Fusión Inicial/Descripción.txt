@@ -1,0 +1,3 @@
+Aquí se realiza la primera fusión de los datasets académicos, donde se juntan por cada periodo los datasets
+de los promedios de las competencias existentes y el procentaje de logro obtenido en cada uno de ellos: (
+Previo Inicio, Inicio, En proceso, Satisfactorio)

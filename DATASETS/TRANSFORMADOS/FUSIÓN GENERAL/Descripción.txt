@@ -1,0 +1,5 @@
+Se realiza la fusión general de los datasets tanto académicos como de los VAB's utilizados. Se emplea toda la 
+iformación menos la de los cuartiles de los años 2016 y 2018; respecto al año 2024 solo se utiliza la columna
+"Cuartil", la cual será el Target para el entrenamiento. Asimismo, se realiza dos Datasets diferentes, uno que
+mantiene registros a nivel distrital y otro que los agrupa por provincia (descartando la columna distrito), esto
+debido a que se deseaba probar si existía alguna diferencia de resultados en la precisión de los diferentes modelos.

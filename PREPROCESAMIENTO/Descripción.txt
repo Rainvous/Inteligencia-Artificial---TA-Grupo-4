@@ -1,0 +1,2 @@
+En esta carpeta se almacenan todos los programas de Python utilizados a lo largo del trabajo, cada uno de ellos
+brinda como resultado un (conjunto de) dataset/s que son utilizados como input para los siguientes. 

@@ -3,3 +3,5 @@ iformación menos la de los cuartiles de los años 2016 y 2018; respecto al año
 "Cuartil", la cual será el Target para el entrenamiento. Asimismo, se realiza dos Datasets diferentes, uno que
 mantiene registros a nivel distrital y otro que los agrupa por provincia (descartando la columna distrito), esto
 debido a que se deseaba probar si existía alguna diferencia de resultados en la precisión de los diferentes modelos.
+Se debe mencionar que el dataset que se utiliza para las siguientes etapas del preprocesamiento es el que
+agrupa los registros por provincia (dataset_consolidado_provincial).

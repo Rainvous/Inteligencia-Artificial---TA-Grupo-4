@@ -24,7 +24,7 @@ FILE_DESEMPENO = filedialog.askopenfilename(
 root.destroy()
 
 if not FILE_PROMEDIO or not FILE_DESEMPENO:
-    raise SystemExit("❌ Selección cancelada.")
+    raise SystemExit("Selección cancelada.")
 
 print(f"   ✔ Promedio  : {FILE_PROMEDIO}")
 print(f"   ✔ Desempeño : {FILE_DESEMPENO}")

@@ -3,4 +3,5 @@ precisión para nuestro objetivo planteado. Se coloca la versión original que p
 se separó en 2 Colabs distintos para mayor legibilidad. Se debe mencionar que el Colab FINAL utilizado para nuestro
 trabajo es el que utiliza el Valor Agregado Bruto (CON VAB). La idea de probar utilizando como no el VAB fue debido
 a que en la sección de correlación, el mapa de calor indicaba que existía una alta correlación entre algunos campos,
-no obstante se pudo observar que implementando el VAB se alcanzan valores significativamente mayores.
+no obstante se pudo observar que implementando el VAB se alcanzan valores significativamente mayores. Asimismo, 
+para cada Colab se debe utilizar un Dataset acorde al enfoque que se establece.

@@ -33,4 +33,4 @@ df_2016.to_csv('dataset_2016_con_target.csv', sep=';', index=False)
 df_2018.to_csv('dataset_2018_con_target.csv', sep=';', index=False)
 df_2024.to_csv('dataset_2024_con_target.csv', sep=';', index=False)
 
-print("¡Listo! Revisa tu carpeta, tienes 3 nuevos archivos con la columna 'CUARTIL' al final.")
+print("Archivos generados")
